@@ -1,0 +1,10 @@
+DESAFIO 10 — CONSULTORIA DE SEGURANÇA - 1,0 ponto 
+O gerente pergunta: 
+“Quais cuidados devemos tomar para manter nossos arquivos armazenados na nuvem 
+mais seguros?” Apresente três recomendações.
+
+1. Usar senhas fortes e diferentes para cada aplicativo
+
+2. Faça múltiplas cópias de um arquivo em tipos diferentes para diminuir o risco de perda de dados
+
+3. Faça backup entre nuvens
